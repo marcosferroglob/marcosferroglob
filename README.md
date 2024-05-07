@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marcos Ferro
+- 👀 I’m interested in BackEnd / Data
+- 🌱 I’m currently learning SQL / NodeJS
+- 📫 How to reach me https://www.linkedin.com/in/marcos-ferro-baya-609453164/
